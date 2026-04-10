@@ -98,9 +98,8 @@ One of the unique features of this repository is **interactive visual explanatio
 
 ### 🎭 Python Decorators — Memory Animation
 
-**[→ Open Interactive Demo](./Decorators/decorator_animation.html)**
+**[→ Open Interactive Demo](https://shireesha-ai-infra.github.io/visualizations/decorator_animation.html)**
 
-> Open in any browser — no installation needed.
 
 This interactive visualization walks you through **5 progressive lessons** that build up to a complete understanding of how decorators really work under the hood:
 
